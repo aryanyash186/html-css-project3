@@ -1,1 +1,30 @@
-body{font-family: 'Poppins', sans-serif;}
+body{font-family: 'Poppins', sans-serif; background-color: antiquewhite; margin: 0%;}
+.adjust{float: left; width: 45%; margin-left: 55px; margin-bottom: 50px;}
+.full{width: 80%;}
+section{margin-top: 100px;}
+h1{font-size: 50px;}
+.lll{color: blue;}
+a{padding: 10px 20px; border-radius: 5px; text-decoration: none; color: whitesmoke;
+    font-weight: 700; background-image: linear-gradient(45deg, blueviolet, blue);}
+h2{font-size: 40px;}
+.fast{height: 900px;}
+.second{height: 630px; background-color: wheat;}
+#majha{text-align: center;}
+.kkk{width: 95%;}
+.aaa{box-shadow: 10px 10px 40px gray; width: 25%; height: 350px; padding: 10px;
+    border-radius: 15px; margin-left: 20px; float: left; text-align: center;}
+#hhh{margin-left: 110px;}
+#ggg{margin-right: 110px;}
+.sss{font-size: 20px;}
+.ddd{color: gray;}
+.tow{float: left; margin-left: 24%; margin-top: 85px;}
+.third{height: 300px; background-image: url(imgs/img3.png); background-size: 75%;
+    background-repeat: no-repeat; background-position: center;}
+#yyy{color: whitesmoke;}
+#kjl{padding: 10px 20px; border-radius: 5px; text-decoration: none; color: whitesmoke;
+    font-weight: 700; background-image: linear-gradient(45deg, red, yellow);}
+#wer{margin-top: 140px;}
+#asd{font-size: 35px;}
+footer{text-align: center; margin-bottom: 50px; margin-top: 70px;}
+.lastimg{margin: 10px; width: 40px;}
+#only{color: gray; font-size: 25px;}
